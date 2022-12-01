@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="lab3.xsl"?>
+<college xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:SchemaLocation="lab3.xsd">
+    <student>
+        <stu-name>
+             Jubaraj Mukherjee   
+            </stu-name>
+        <stu-Course>
+                MCA
+            </stu-Course>
+        <Stu-Sem>
+                2nd sem
+            </Stu-Sem>
+        <stu-sub1>
+                59
+            </stu-sub1>
+        <stu-sub2>
+                49
+            </stu-sub2>
+        <stu-sub3>
+                79
+            </stu-sub3>
+        <stu-Total>
+                187
+            </stu-Total>
+        <stu-Avg>
+                62.33
+            </stu-Avg>
+    </student>
+</college>
